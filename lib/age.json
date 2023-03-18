@@ -1,0 +1,9 @@
+{
+    "baby":{"min":0,"max":3},
+    "kid":{"min":4,"max":8},
+    "child":{"min":9,"max":14},
+    "teen":{"min":15,"max":18},
+    "adult":{"min":18,"max":39},
+    "elderly":{"min":40,"max":99},
+    "ancient":{"min":100,"max":1000}
+}

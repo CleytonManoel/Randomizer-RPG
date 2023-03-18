@@ -1,0 +1,39 @@
+{
+    "clothes": [
+        "manopla de ferro mão direita",
+        "manopla de ouro mão direita",
+        "manopla de aço mão direita",
+        "manopla de ferro mágico mão direita",
+        "manopla de ferro mão esquerda",
+        "manopla de ouro mão esquerda",
+        "manopla de aço mão esquerda",
+        "manopla de ferro mágico mão esquerda",
+        "cota de malha",
+        "capa vermelha",
+        "capa azul",
+        "capa preta",
+        "capa verde",
+        "capa amarela",
+        "capa roxa",
+        "capa branca",
+        "capa laranja",
+        "capa da invisibilidade",
+        "capa do Drácula",
+        "capuz vermelho",
+        "capuz azul",
+        "capuz preto",
+        "capuz verde",
+        "capuz amarelo",
+        "capuz roxo",
+        "capuz branco",
+        "capuz laranja",
+        "elmo de prata ",
+        "elmo de ferro",
+        "elmo de ouro",
+        "coroa",
+        "tapa olho"
+    ],
+    "specialclothes": [
+        ["capa da invisibilidade","torna seu usuario invisível"]
+    ]
+}

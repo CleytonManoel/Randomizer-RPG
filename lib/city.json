@@ -1,0 +1,25 @@
+{
+    "type":{
+        "small":[
+            "vila pequena",
+            "cidadezinha",
+            "vilarejo",
+            "povoado" 
+        ],
+        "medium":[
+            "vila",
+            "aldeia",
+            "cidade",
+            "metrópole"
+        ],
+        "big":[
+            "cidade grande",
+            "país",
+            "nação",
+            "Império"
+        ]
+    },
+    "small":{"min":100,"max":10000},
+    "medium":{"min":10000,"max":100000},
+    "big":{"min":100000,"max":1000000000}
+}

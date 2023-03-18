@@ -1,0 +1,56 @@
+{
+    "villagersmale": [
+        "fazendeiro",
+        "herbalista",
+        "pelador",
+        "mineiro"
+    ],    
+    "villagersfemale": [
+        "fazendeira",
+        "herbalista",
+        "pelador",
+        "mineira"
+    ],  
+    "magicsmale": [
+        "alquimista",
+        "encantador"
+    ],
+    "magicsfemale": [
+        "alquimista",
+        "encantadora"
+    ],
+    "craftersmale": [
+        "alfaiate",
+        "coureiro",
+        "engenheiro",
+        "ferreiro",
+        "joalheiro",
+        "tecelão",
+        "carpinteiro"
+    ],
+    "craftersfemale": [
+        "costureira",
+        "coureira",
+        "engenheira",
+        "ferreira",
+        "joalheira",
+        "tecelã",
+        "carpinteira"
+    ],
+    "armymale": [
+        "arqueiro",
+        "cavaleiro"
+    ],
+    "armyfemale": [
+        "arqueira",
+        "cavaleira"
+    ],
+    "royalsmale": [
+        "rei",
+        "imperador"
+    ],
+    "royalsfemale": [
+        "rainha",
+        "imperatriz"
+    ]
+}

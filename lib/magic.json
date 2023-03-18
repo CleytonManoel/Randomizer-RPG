@@ -1,0 +1,12 @@
+{
+    "potions":[
+        "poção de mana",
+        "poção de velocidade",
+        "poção de dano",
+        "poção de vida"
+    ],
+    "books":[
+        "livro de feitiços",
+        "livro de poções"
+    ]
+}

@@ -1,0 +1,613 @@
+{
+    "weapons": [
+        "Adaga",
+        "Chicote",
+        "Katar",
+        "Manopla",
+        "Soco Inglês",
+        "Nunchaku",
+        "Sai",
+        "Corrente com cravos",
+        "Espada curta",
+        "Machadinha",
+        "Martelo",
+        "Wakizashi",
+        "Bordão",
+        "Cimitarra",
+        "Clava",
+        "Espada Longa",
+        "Florete",
+        "Foice",
+        "Katana",
+        "Lança",
+        "Maça",
+        "Mangual",
+        "Sabre",
+        "Tridente",
+        "Espada bastarda",
+        "Espada de duas lâminas",
+        "Machado de batalha",
+        "Martelo de guerra",
+        "Picareta",
+        "Tacape",
+        "Arco curto",
+        "Arco composto",
+        "Besta de repetição",
+        "Besta leve",
+        "Besta pesada",
+        "Espada de ferro mágico",
+        "Espada de treino",
+        "Espada de ferro",
+        "Espada de ouro",
+        "Espada de ferro mágico curta",
+        "Espada de treino curta",
+        "Espada de ferro curta",
+        "Espada de ouro curta",
+        "Espada de aço curta",
+        "Espada de ferro mágico longa",
+        "Espada de treino longa",
+        "Espada de ferro longa",
+        "Espada de ouro longa",
+        "Espada de aço longa",
+        "Espada pirata de treino",
+        "Espada pirata de ferro",
+        "Espada pirata de ouro",
+        "Espada pirata de aço",
+        "Espada de ossos",
+        "Espada de prata",
+        "Espada de meteoro",
+        "Florete de ferro",
+        "Florete de aço",
+        "Florete de ferro mágico",
+        "Machado de ouro",
+        "Lança de ouro",
+        "Lança de ferro",
+        "Lança de aço",
+        "Lança de ferro mágico",
+        "Foice de ferro",
+        "Foice de aço",
+        "Foice de ouro",
+        "Foice de ferro mágico",
+        "Foice de ossos",
+        "Marreta de ferro",
+        "Marreta de ouro",
+        "Marreta de aço",
+        "Marreta de ferro mágico",
+        "Escudo de pequeno madeira",
+        "Escudo de pequeno ferro",
+        "Escudo de pequeno ouro",
+        "Escudo de pequeno ferro mágico",
+        "Escudo pequeno de ossos",
+        "Escudo grande de madeira",
+        "Escudo grande de ferro",
+        "Escudo grande de ouro",
+        "Escudo grande de ferro mágico",
+        "Escudo grande de ossos",
+        "Picareta de Ferro",
+        "Picareta de Aço",
+        "Picareta de Ouro",
+        "Picareta de Ferro mágico"
+    ],
+    "specialweapons": [
+        [
+            "Abbathor",
+            "adaga de retorno"
+        ],
+        [
+            "Aerdrie Faenya",
+            "bordão elétrico"
+        ],
+        [
+            "Akadi",
+            "mangual pesado gritante"
+        ],
+        [
+            "Angharradh",
+            "lança longa de armazenar magias"
+        ],
+        [
+            "Anhur",
+            "falcione defensor"
+        ],
+        [
+            "Arvoreen",
+            "espada curta defensora"
+        ],
+        [
+            "Auril",
+            "machado de guerra congelante"
+        ],
+        [
+            "Azuth",
+            "bordão de armazenar magias"
+        ],
+        [
+            "Baervan Errante Selvagem",
+            "meia-lança elétrica"
+        ],
+        [
+            "Bahgtru",
+            "manopla com cravos afiada"
+        ],
+        [
+            "Bane",
+            "maça-estrela elétrica"
+        ],
+        [
+            "Baravar Manto Sombrio",
+            "adaga de toque espectral"
+        ],
+        [
+            "Berronai",
+            "maça pesada de trespassar poderoso"
+        ],
+        [
+            "Beshaba",
+            "açoite afiado"
+        ],
+        [
+            "Brandobaris",
+            "adaga de retorno"
+        ],
+        [
+            "Callarduran Mãos Suaves",
+            "machado de guerra defensor"
+        ],
+        [
+            "Chauntea",
+            "foice longa afiada"
+        ],
+        [
+            "Clangeddin Barba Prateada",
+            "machado de guerra de arremesso"
+        ],
+        [
+            "Corellon Larethian",
+            "espada longa afiada"
+        ],
+        [
+            "Cyric",
+            "espada longa flamejante"
+        ],
+        [
+            "Cyrrollàlee",
+            "bordão de trespassar poderoso"
+        ],
+        [
+            "Duerra das Profundezas",
+            "machado de guerra gritante"
+        ],
+        [
+            "Deneir",
+            "adaga de armazenar magias"
+        ],
+        [
+            "Dugmaren Manto Brilhante",
+            "espada curta afiada"
+        ],
+        [
+            "Durmathoin",
+            "malho de trespassar poderoso"
+        ],
+        [
+            "Eilistraee",
+            "espada bastarda flamejante"
+        ],
+        [
+            "Eldath",
+            "maça leve de trespassar poderoso"
+        ],
+        [
+            "Erevan Ilesere",
+            "espada curta afiada"
+        ],
+        [
+            "Fenmarel Mestarine",
+            "adaga de arremesso"
+        ],
+        [
+            "Finder Aguilhão da Wyvern",
+            "espada bastarda gritante"
+        ],
+        [
+            "Flandal Pele Blindada",
+            "martelo de combate flamejante"
+        ],
+        [
+            "Gaerdal Mão Férrea",
+            "martelo de combate gritante"
+        ],
+        [
+            "Garagos",
+            "espada longa afiada"
+        ],
+        [
+            "Gargauth",
+            "mdaga de .retorno"
+        ],
+        [
+            "Garl Glittergold",
+            "machado de guerra afiado"
+        ],
+        [
+            "Geb",
+            "bordão de trespassar poderoso"
+        ],
+        [
+            "Ghaunadaur",
+            "martelo de combate corrosivo"
+        ],
+        [
+            "Gond",
+            "martelo de combate elétrico"
+        ],
+        [
+            "Gorm'Gulthyn",
+            "machado de guerra anão flamejante"
+        ],
+        [
+            "Grumbar",
+            "martelo de combate de trespassar poderoso"
+        ],
+        [
+            "Gruumsh",
+            "lança de retorno longa ou curta"
+        ],
+        [
+            "Gwaeron Windstrom",
+            "espada larga flamejante"
+        ],
+        [
+            "Haela Machado Brilhante",
+            "espada larga flamejante"
+        ],
+        [
+            "Hanali Celanil",
+            "adaga defensora"
+        ],
+        [
+            "Hathor",
+            "espada curta afiada"
+        ],
+        [
+            "Helm",
+            "espada bastarda defensora"
+        ],
+        [
+            "Hoar",
+            "azagaia elétrica"
+        ],
+        [
+            "Horus-Re",
+            "khopesh flamejante"
+        ],
+        [
+            "Ilmater",
+            "ataque desarmado elétrico"
+        ],
+        [
+            "Ilneval",
+            "espada longa"
+        ],
+        [
+            "Isis",
+            "adaga de soco de armazenar magias"
+        ],
+        [
+            "Istishia",
+            "martelo de combate elétrico"
+        ],
+        [
+            "Jergal",
+            "foice longa de toque espectral"
+        ],
+        [
+            "Kelemvor",
+            "espada bastarda afiada"
+        ],
+        [
+            "Kiaransalee",
+            "adaga corrosiva"
+        ],
+        [
+            "KoSiuth",
+            "corrente com cravos flamejante"
+        ],
+        [
+            "Labelas Enoreth",
+            "bordão congelante"
+        ],
+        [
+            "Laduguer",
+            "martelo de combate defensor"
+        ],
+        [
+            "Lathander",
+            "maça leve flamejante"
+        ],
+        [
+            "Lliira",
+            "três shurikens de retorno"
+        ],
+        [
+            "Lolth",
+            "adaga afiada"
+        ],
+        [
+            "Loviatar",
+            "açoite elétrico"
+        ],
+        [
+            "Lurue",
+            "lança curta afiada"
+        ],
+        [
+            "Luthic",
+            "braçadeira com garras de toque espectral"
+        ],
+        [
+            "Malara",
+            "braçadeira com garras afiada"
+        ],
+        [
+            "Marthammon Duin",
+            "maça pesada elétrica"
+        ],
+        [
+            "Mask",
+            "espada longa congelante"
+        ],
+        [
+            "Mielikki",
+            "cimitarra congelante"
+        ],
+        [
+            "Milil",
+            "sabre afiado"
+        ],
+        [
+            "Moradin",
+            "martelo de combate de trespassar poderoso"
+        ],
+        [
+            "Mystra",
+            "três shurikens de retorno"
+        ],
+        [
+            "Nephthys",
+            "chicote defensor"
+        ],
+        [
+            "Nobanion",
+            "picareta pesada gritante"
+        ],
+        [
+            "Oghma",
+            "espada longa de trespassar poderoso"
+        ],
+        [
+            "Osíris",
+            "mangual leve de toque espectral"
+        ],
+        [
+            "Cavaleiro Vermelho",
+            "espada longa gritante"
+        ],
+        [
+            "Rillifane Rallathil",
+            "bordão de trespassar poderoso"
+        ],
+        [
+            "Sashelas das Profundezas",
+            "tridente _congelante"
+        ],
+        [
+            "Savras",
+            "adaga defensora"
+        ],
+        [
+            "Sebek",
+            "lança longa, meia-lança ou lança curta afiada"
+        ],
+        [
+            "Segojan Convocador da Terra",
+            "clava de trespassar poderoso"
+        ],
+        [
+            "Sehanine Arco Lunar",
+            "bordão de toque espectral"
+        ],
+        [
+            "Sel Une",
+            "maça pesada elétrica"
+        ],
+        [
+            "Selvetarm",
+            "maça pesada corrosiva"
+        ],
+        [
+            "Set",
+            "lança longa, lança curta ou meia-lança venenosa"
+        ],
+        [
+            "Shar",
+            "chakram de retorno"
+        ],
+        [
+            "Sharess",
+            "braçadeira-com garras afiada"
+        ],
+        [
+            "Shargaas",
+            "espada curta defensora "
+        ],
+        [
+            "Sharindlar",
+            "chicote elétrico"
+        ],
+        [
+            "Shaundakul",
+            "espada larga do alerta"
+        ],
+        [
+            "Sheela Peryroyl",
+            "bordão gritante"
+        ],
+        [
+            "Shevarash",
+            "arco longo da distância"
+        ],
+        [
+            "Shiallia",
+            "bordão de trespassar poderoso"
+        ],
+        [
+            "Siamorphe",
+            "maça leve flamejante"
+        ],
+        [
+            "Silvanus",
+            "malho elétrico"
+        ],
+        [
+            "Solonor Thelandira",
+            "arco longo da distância"
+        ],
+        [
+            "Sune",
+            "chicote flamejante"
+        ],
+        [
+            "Talona",
+            "ataque desarmado venenoso"
+        ],
+        [
+            "Talos",
+            "lança curta elétrica"
+        ],
+        [
+            "Tempus",
+            "machado de guerra de trespassar poderoso"
+        ],
+        [
+            "Thard Harr",
+            "braçadeira com garras afiada"
+        ],
+        [
+            "Thoth",
+            "bordão de armazenar magias"
+        ],
+        [
+            "Tiamat",
+            "picareta pesada afiada"
+        ],
+        [
+            "Torm",
+            "espada larga gritante"
+        ],
+        [
+            "Tymora",
+            "três shurikens do retorno"
+        ],
+        [
+            "Tyr",
+            "espada longa afiada"
+        ],
+        [
+            "Ubtao",
+            "picareta pesada afiada"
+        ],
+        [
+            "Ulutiu",
+            "lança longa congelante"
+        ],
+        [
+            "Umberlee",
+            "tridente elétrico"
+        ],
+        [
+            "Urdlen",
+            "braçadeira com garras afiada"
+        ],
+        [
+            "Urogalan",
+            "mangual atroz de trespassar poderoso"
+        ],
+        [
+            "Uthgár",
+            "machado de guerra afiado"
+        ],
+        [
+            "Valkur",
+            "cutelo de armazenar magias"
+        ],
+        [
+            "Velsharoon",
+            "manopla com cravos congelante"
+        ],
+        [
+            "Vergadain",
+            "espada longa afiada"
+        ],
+        [
+            "Vhaeraun",
+            "espada curta elétrica"
+        ],
+        [
+            "Waukeen",
+            "nunchaku flamejante"
+        ],
+        [
+            "Yondalla",
+            "espada curta defensora"
+        ],
+        [
+            "Espada de fogo",
+            "espada feita de fogo"
+        ],
+        [
+            "Espada de gelo",
+            "espada feita de gelo"
+        ],
+        [
+            "Espada de raio",
+            "espada feita de raios"
+        ],
+        [
+            "Espada tubarão",
+            "espada com um tubarão vivo"
+        ],
+        [
+            "Cajado do fogo",
+            "cajado que lança feixes de fogo"
+        ],
+        [
+            "Cajado da água",
+            "cajado que lança feixes de água"
+        ],
+        [
+            "Cajado do vento",
+            "cajado que lança feixes de vento"
+        ],
+        [
+            "Cajado da terra",
+            "cajado que lança feixes de terra"
+        ],
+        [
+            "Cajado de gelo",
+            "cajado que lança feixes de gelo"
+        ],
+        [
+            "Cajado da luz",
+            "cajado que lança feixes de luz"
+        ],
+        [
+            "Cajado das trevas",
+            "cajado que lança feixes de trevas"
+        ],
+        [
+            "Arco mágico",
+            "arco que dispara flexas infinitamente"
+        ]
+    ]
+}
