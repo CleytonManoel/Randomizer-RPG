@@ -7,7 +7,6 @@
 - Requirements
 - How to use
 - Custom libs
-- More doubts
 
 ## Project
 
@@ -54,8 +53,4 @@ Where your variables must be filled in according to the variables inside the JSO
 
 To use custom libs, just place the custom JSON files inside the "lib" folder, following the existing standards.
 
-## More doubts
 
-For more questions about the project, consult the official documentation:
-
-> documentação oficial https://randomizerrpgdocs.netlify.app
